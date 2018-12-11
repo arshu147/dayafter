@@ -2,7 +2,7 @@ package test;
 
 public class newww {
 	public static void main(String[] args) {
-	sdfsd
+	udska
 		
 	}
 
